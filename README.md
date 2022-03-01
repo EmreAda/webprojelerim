@@ -1,5 +1,5 @@
 # webprojelerim 👋
-Web tasarım yapmada profesyonel olana kadar bütün projelerimi burada baylaşacağım.
+Web tasarım yapmada profesyonel olana kadar bütün projelerimi burada paylaşacağım.
 
 
 <details>
